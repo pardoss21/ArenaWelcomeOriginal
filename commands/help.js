@@ -33,7 +33,7 @@ module.exports = {
       const { EmbedBuilder } = require('discord.js');
 
       const embed = new EmbedBuilder()
-        .setColor('#0099ff')
+        .setColor('#11d8ff')
         .setTitle('👋 Welcome Bot Help')
         .setDescription('Here are the available commands:\n\n' +
           '**/welcomemessage :** set up welcome message.\n' +
